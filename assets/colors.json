@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "background": "#CC0000",
+    "color": "#FFFFFF"
+  },
+
+  "clock": {
+    "background": "linear(180,#292929 0%,#292929 14.42%,#070707 35.10%,#191919 79.81%,#000000 100%)",
+    "color": "#FFFFFF"
+  },
+
+  "column": {
+    "background": "linear(180,#292929 0%,#292929 14.42%,#070707 35.10%,#191919 79.81%,#000000 100%)",
+    "color": "#FFFFFF"
+  },
+
+  "shadow": {
+    "background": "linear(180,#000000FF 0%,#00000000 50%,#00000000 100%)"
+  },
+
+  "badges": {
+    "alert": {
+      "background": "linear(180,#D45400,#FFDCC5)",
+      "color": "#FFFFFF"
+    },
+    "breaking": {
+      "background": "linear(180,#CC0000,#FFAD76)",
+      "color": "#FFFFFF"
+    },
+    "live": {
+      "background": "linear(180,#CC0000,#FFAD76)",
+      "color": "#FFFFFF"
+    },
+    "markets": {
+      "background": "linear(180,#1A6B3C,#88FFBA)",
+      "color": "#FFFFFF"
+    },
+    "weather": {
+      "background": "linear(180,#1A4A8A,#9FC6FA)",
+      "color": "#FFFFFF"
+    }
+  }
+}

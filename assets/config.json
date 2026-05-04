@@ -1,0 +1,74 @@
+{
+  "layout": {
+    "ticker_height": 40,
+
+    "brand": {
+      "width":         160,
+      "padding":       { "left": 0, "right": 0 },
+      "margin_right":  28,
+      "alignment":     "center",
+      "shadow_width":  14,
+
+      "image": {
+        "path":      null,
+        "width":     120,
+        "alignment": "center"
+      }
+    },
+
+    "clock": {
+      "width":      140,
+      "padding":    { "left": 0, "right": 0 },
+      "alignment":  "center",
+      "fade_width": 140
+    },
+
+    "spacing": {
+      "badge": {
+        "padding":       { "x": 9, "y": 8 },
+        "corner_radius": 14,
+        "gap":           { "left": 40, "right": 12 }
+      },
+      "text_gap": 40
+    }
+  },
+
+  "typography": {
+    "family": "Roboto Condensed",
+    "roles": {
+      "brand":    { "size": 26, "weight": "black", "style": "italic" },
+      "badge":    { "size": 16, "weight": "black", "style": "normal" },
+      "clock":    { "size": 26, "weight": "black", "style": "normal" },
+      "carousel": { "size": 26, "weight": "black", "style": "normal" }
+    }
+  },
+
+  "animation": {
+    "scroll":         { "delay": 3.5, "speed": 100 },
+    "carousel":       { "hold": 20,   "transition": 0.45 },
+    "loop_gap":       80,
+    "max_delta_time": 0.033,
+    "uppercase_text": true
+  },
+
+  "effects": {
+    "badge_text_shadow": {
+      "offset":  { "x": 0, "y": 1.5 },
+      "blur":    1,
+      "opacity": 0.95
+    },
+    "global_shadow": {
+      "opacity": 0.88
+    }
+  },
+
+  "window": {
+    "min_width":     320,
+    "resize_border": 6,
+    "snap_distance": 20,
+    "defaults": {
+      "snap_enabled":  true,
+      "always_on_top": false
+    }
+  }
+}

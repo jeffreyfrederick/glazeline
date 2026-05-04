@@ -1,0 +1,30 @@
+[
+  {
+    "items": [
+      {
+        "elements": [
+          { "type": "text",  "text": "polling in real time bitch! welcome to glazeline! a deliciously sweet, fully customizable, open source, live information feed ticker!" }
+        ]
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "elements": [
+          { "type": "badge", "badge_type": "alert", "text": "alert" },
+          { "type": "text",  "text": "earnings season underway — major banks report this week" },
+          { "type": "badge", "badge_type": "markets", "text": "markets" },
+          { "type": "text",  "text": "tech sector leads gains as ai infrastructure spending accelerates" }
+        ]
+      },
+      {
+        "elements": [
+          { "type": "badge", "badge_type": "alert", "text": "alert" },
+          { "type": "text",  "text": "unemployment rate holds at 3.9% — labor market remains resilient" },
+          { "type": "text",  "text": "market update: s&p 500 futures up 0.4% in pre-market trading" }
+        ]
+      }
+    ]
+  }
+]
